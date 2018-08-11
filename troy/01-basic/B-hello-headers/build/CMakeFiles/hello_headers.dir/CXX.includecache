@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Hello.h
+
+/home/warproxxx/Desktop/Practise/troy/01-basic/B-hello-headers/src/Hello.cpp
+iostream
+-
+Hello.h
+/home/warproxxx/Desktop/Practise/troy/01-basic/B-hello-headers/src/Hello.h
+
+/home/warproxxx/Desktop/Practise/troy/01-basic/B-hello-headers/src/main.cpp
+Hello.h
+/home/warproxxx/Desktop/Practise/troy/01-basic/B-hello-headers/src/Hello.h
+
