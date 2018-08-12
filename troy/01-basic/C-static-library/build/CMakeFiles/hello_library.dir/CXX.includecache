@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/static/Hello.h
+
+/home/warproxxx/Desktop/Practise/troy/01-basic/C-static-library/src/Hello.cpp
+iostream
+-
+static/Hello.h
+/home/warproxxx/Desktop/Practise/troy/01-basic/C-static-library/src/static/Hello.h
+

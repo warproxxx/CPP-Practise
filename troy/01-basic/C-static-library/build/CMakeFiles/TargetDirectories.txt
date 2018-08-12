@@ -1,0 +1,4 @@
+/home/warproxxx/Desktop/Practise/troy/01-basic/C-static-library/build/CMakeFiles/edit_cache.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/C-static-library/build/CMakeFiles/rebuild_cache.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/C-static-library/build/CMakeFiles/hello_binary.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/C-static-library/build/CMakeFiles/hello_library.dir
