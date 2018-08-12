@@ -1,0 +1,4 @@
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/install/bin/cmake_examples_inst_bin
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/install/lib/libcmake_examples_inst.so
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/install/include/installing/Hello.h
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/install/etc/cmake-examples.conf

@@ -1,0 +1,8 @@
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/CMakeFiles/install.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/CMakeFiles/list_install_components.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/CMakeFiles/rebuild_cache.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/CMakeFiles/cmake_examples_inst.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/CMakeFiles/edit_cache.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/CMakeFiles/cmake_examples_inst_bin.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/CMakeFiles/install/strip.dir
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/build/CMakeFiles/install/local.dir

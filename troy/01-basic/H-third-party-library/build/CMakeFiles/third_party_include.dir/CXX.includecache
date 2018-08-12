@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/warproxxx/Desktop/Practise/troy/01-basic/H-third-party-library/main.cpp
+iostream
+-
+boost/shared_ptr.hpp
+-
+boost/filesystem.hpp
+-
+

@@ -5,7 +5,7 @@ project(hello_library)
 add_library(${PROJECT_NAME} STATIC
     src/Hello.cpp)
 
-target_include_directories(${PROJECT_NAME}
+target_include_directories(hello_library
     PUBLIC
         ${PROJECT_SOURCE_DIR}/include
 )

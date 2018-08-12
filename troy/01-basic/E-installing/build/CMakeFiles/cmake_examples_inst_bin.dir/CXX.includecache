@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/installing/Hello.h
+
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/src/main.cpp
+installing/Hello.h
+/home/warproxxx/Desktop/Practise/troy/01-basic/E-installing/src/installing/Hello.h
+
