@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../outputlib/include/outputlib/outputlib.h
+iostream
+-
+
+../printlib/include/printlib/printlib.h
+iostream
+-
+
+/home/warproxxx/Desktop/Practise/troy/02-sub-projects/custom/subbinary/main.cpp
+printlib/printlib.h
+/home/warproxxx/Desktop/Practise/troy/02-sub-projects/custom/subbinary/printlib/printlib.h
+outputlib/outputlib.h
+/home/warproxxx/Desktop/Practise/troy/02-sub-projects/custom/subbinary/outputlib/outputlib.h
+
