@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexample_google_test.a  CMakeFiles/example_google_test.dir/Reverse.cpp.o CMakeFiles/example_google_test.dir/Palindrome.cpp.o
+/usr/bin/ranlib libexample_google_test.a

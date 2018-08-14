@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/Palindrome.cpp
+Palindrome.h
+/home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/Palindrome.h
+
+/home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/Palindrome.h
+string
+-
+
+/home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/Reverse.cpp
+Reverse.h
+/home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/Reverse.h
+
+/home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/Reverse.h
+string
+-
+

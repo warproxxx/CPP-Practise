@@ -1,0 +1,33 @@
+Start testing: Aug 14 06:17 +0545
+----------------------------------------------------------
+1/1 Testing: test_all
+1/1 Test: test_all
+Command: "/home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/build/unit_tests"
+Directory: /home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/build
+"test_all" start time: Aug 14 06:17 +0545
+Output:
+----------------------------------------------------------
+Running main() from /home/warproxxx/Desktop/Practise/troy/05-unit-testing/google-test/build/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 3 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 3 tests from ReverseTests
+[ RUN      ] ReverseTests.simple
+[       OK ] ReverseTests.simple (0 ms)
+[ RUN      ] ReverseTests.empty
+[       OK ] ReverseTests.empty (0 ms)
+[ RUN      ] ReverseTests.is_palindrome
+[       OK ] ReverseTests.is_palindrome (0 ms)
+[----------] 3 tests from ReverseTests (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 3 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test_all" end time: Aug 14 06:17 +0545
+"test_all" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 14 06:17 +0545
